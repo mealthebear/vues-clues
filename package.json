@@ -1,0 +1,28 @@
+{
+  "name": "vues-clues",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mealthebear/vues-clues.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mealthebear/vues-clues/issues"
+  },
+  "homepage": "https://github.com/mealthebear/vues-clues#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "path": "^0.12.7",
+    "rollup": "^2.40.0",
+    "vue": "^3.0.7"
+  }
+}
